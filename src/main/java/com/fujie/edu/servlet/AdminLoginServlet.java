@@ -1,6 +1,6 @@
 package com.fujie.edu.servlet;
 
-import cn.edu.niit.service.LoginService;
+import com.fujie.edu.service.LoginService;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

@@ -1,8 +1,10 @@
 package com.fujie.edu.service;
 
-import cn.edu.niit.dao.LoginDao;
-import cn.edu.niit.javabean.Admin;
-import cn.edu.niit.javabean.User;
+
+
+import com.fujie.edu.dao.LoginDao;
+import com.fujie.edu.javabean.Admin;
+import com.fujie.edu.javabean.User;
 
 import javax.servlet.http.HttpSession;
 

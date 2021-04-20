@@ -1,8 +1,10 @@
 package com.fujie.edu.service;
 
-import cn.edu.niit.dao.LoginDao;
-import cn.edu.niit.dao.RegisterDao;
-import cn.edu.niit.javabean.User;
+
+
+import com.fujie.edu.dao.LoginDao;
+import com.fujie.edu.dao.RegisterDao;
+import com.fujie.edu.javabean.User;
 
 import java.sql.SQLException;
 

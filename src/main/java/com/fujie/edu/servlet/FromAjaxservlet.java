@@ -17,6 +17,7 @@ import java.io.IOException;
 public class FromAjaxservlet extends HttpServlet {
 
 
+  @Override
   protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
     resp.setCharacterEncoding("utf-8");
     try {

@@ -1,8 +1,8 @@
 package com.fujie.edu.servlet;
 
-import cn.edu.niit.dao.LoginDao;
-import cn.edu.niit.javabean.User;
-import cn.edu.niit.service.RegisterService;
+import com.fujie.edu.dao.LoginDao;
+import com.fujie.edu.service.RegisterService;
+import com.fujie.edu.javabean.User;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
