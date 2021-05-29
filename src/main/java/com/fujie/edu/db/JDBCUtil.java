@@ -20,7 +20,7 @@ public class JDBCUtil {
 
   private static  String driver = "com.mysql.cj.jdbc.Driver";
   private static  String url = "jdbc:mysql://127.0.0.1:3306/library?serverTimezone=UTC&characterEncoding=UTF-8&useUnicode=true";
-  private static  String username = "fujie31";
+  private static  String username = "fujie21";
   private static  String password = "123456";
   private static JDBCUtil instance = null;
 
